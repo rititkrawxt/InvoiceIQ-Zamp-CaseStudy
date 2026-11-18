@@ -1,0 +1,6 @@
+vendor_id,legal_name,gstin,bank_last4,status
+VEN-101,Northstar Components Pvt Ltd,07ABCDE1234F1Z5,4321,ACTIVE
+VEN-202,Azure Systems India Pvt Ltd,29ABCDE1234F1Z7,5478,ACTIVE
+VEN-303,Meridian Industrial Supplies,27ABCDE1234F1Z9,1919,ACTIVE
+VEN-404,Cloudline Technologies,07ABCDE1234F1Z6,7788,ACTIVE
+VEN-505,Legacy Hardware Services,06ABCDE1234F1Z4,2020,INACTIVE
